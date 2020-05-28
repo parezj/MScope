@@ -65,4 +65,4 @@ for instance with this [lookup chart](http://www.cranesong.com/Volts%20to%20dBu%
 ![Download](https://raw.githubusercontent.com/parezj/MScope/master/screenshots/sine_20273_fft.png)
 
 - **Signal source - ancient DIY analog function generator**:  
-![Download](https://raw.githubusercontent.com/parezj/MScope/master/screenshots/ancient_dyi_generator.png)
+![Download](https://raw.githubusercontent.com/parezj/MScope/master/screenshots/ancient_dyi_generator.jpg)
